@@ -1,3 +1,6 @@
+//program to print all alternative prime numbers from the list.
+
+
 #include<stdio.h>
 #include<malloc.h>
 
