@@ -86,12 +86,12 @@ int main()
 	create(&head1);
 	create(&head2);
 	print(head1);
-//	printf("\n");
+
 	print(head2);
 
 	add(&head1,&head2);
 	print(head1);
-//	printf("\n");
+
         print(head2);
 
 	
